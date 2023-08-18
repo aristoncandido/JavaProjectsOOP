@@ -33,13 +33,11 @@ public class Aula02 {
         agenda.cor = "Preto";
         agenda.pages = 150; // 150 páginas
         agenda.passador = 0 ;
-        agenda.escrever(c1.Carga);
+       // agenda.escrever(c1.Carga);
            
         
               
-        
-        
-        
+     
         
         
         
